@@ -1,0 +1,7 @@
+name: xInventories
+main: me.x128.xInventories.Main
+author: x128
+version: 2.5
+commands:
+  xinventories:
+    description: xInventories base command
