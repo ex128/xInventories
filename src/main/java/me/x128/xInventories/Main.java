@@ -2,7 +2,6 @@ package me.x128.xInventories;
 
 import com.elmakers.mine.bukkit.api.magic.MagicAPI;
 import me.x128.xInventories.command.xInventoriesCommand;
-import me.x128.xInventories.command.xTpCommand;
 import me.x128.xInventories.listener.GamemodeChangeEvent;
 import me.x128.xInventories.listener.LogInOutListener;
 import me.x128.xInventories.listener.WorldChangeEvent;
