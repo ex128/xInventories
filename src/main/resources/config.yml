@@ -1,0 +1,9 @@
+#xInventories
+#A Premium Spigot resource by x128
+
+groups:
+  - default
+worlds: []
+
+respect-gamemode: false
+save-async: false
